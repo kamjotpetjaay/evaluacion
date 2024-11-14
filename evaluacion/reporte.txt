@@ -1,0 +1,6 @@
+Id	Nombre	Apellido paterno	Apellido materno	Sexo	Fecha de nacimiento	Teléfono celular	Puesto	Salario 
+EMP001	Juan Pablo     Gomez          Martinez       	M	1989-08-30	9531886075	Gerente             	50000.00
+EMP002	Ana            Gomez          Martinez       	F	1985-07-20	9531886076	Subgerente          	40000.00
+EMP003	Luis           Ramirez        null           	M	1992-10-15	9531886077	Tester              	30000.00
+EMP004	Maria          Diaz           Santos         	F	1993-01-22	9531886078	Desarrollador       	38000.00
+EMP005	Carlos         Fernandez      Ruiz           	M	1988-03-30	9531886079	Soporte             	25000.00
